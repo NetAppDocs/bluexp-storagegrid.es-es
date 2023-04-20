@@ -14,7 +14,7 @@ summary: Descubra las novedades que ofrece la gestión de sistemas StorageGRID e
 
 
 [role="lead"]
-Descubra las novedades de la gestión de sistemas de StorageGRID en BlueXP (anteriormente Cloud Manager).
+Descubra las novedades que ofrece la gestión de sistemas StorageGRID en BlueXP.
 
 
 
