@@ -14,8 +14,6 @@
   <block id="b88241859cee076fd3a4ddaeda099288" category="paragraph">Tras descubrir un sistema StorageGRID en BlueXP, puede utilizar los servicios de datos de NetApp para realizar backups y sincronización de datos.</block>
   <block id="a4304a5e5ad0523cd1e2516efcbb04ea" category="inline-link">Obtenga más información acerca de la realización de backups de datos de ONTAP en las instalaciones en StorageGRID</block>
   <block id="5848e24b55c702b7cc486314cd78f6dc" category="paragraph"><block ref="5848e24b55c702b7cc486314cd78f6dc" category="inline-link-rx"></block></block>
-  <block id="c9e8b2e7aec1baa65efcbe84dfc9d0ed" category="inline-link">Obtenga más información acerca de Cloud Sync</block>
-  <block id="fcea636cb0627956ef5da173e7e82e53" category="paragraph"><block ref="fcea636cb0627956ef5da173e7e82e53" category="inline-link-rx"></block></block>
   <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp ofrece soporte para BlueXP de diversas maneras. Hay disponibles amplias opciones de auto soporte gratuito las 24 horas del día, los 7 días de la semana, como artículos de la base de conocimiento (KB) y un foro de la comunidad. Su registro de soporte incluye soporte técnico remoto a través de tickets web.</block>
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">Obtenga ayuda</block>
   <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp ofrece soporte para BlueXP y sus servicios cloud de diversas maneras. Hay disponibles amplias opciones de auto soporte gratuito las 24 horas del día, los 7 días de la semana, como artículos de la base de conocimiento (KB) y un foro de la comunidad. Su registro de soporte incluye soporte técnico remoto a través de tickets web.</block>
@@ -248,4 +246,6 @@
   <block id="ead1951b53a3b76661043b6bf5ff1b48" category="paragraph">Para empezar, ve al lienzo de BlueXP y arrastra y suelta un entorno de trabajo de ONTAP on-premises en tu entorno de trabajo de StorageGRID.</block>
   <block id="b99ff865a132e7a6116d680732bd74a1" category="list-text">Utiliza la copia y sincronización de BlueXP para sincronizar los datos que se encuentren en un sistema StorageGRID o desde él.</block>
   <block id="e1bb8de567622bad90039f45af7d579c" category="paragraph">Para empezar, ve al lienzo de BlueXP y arrastra y suelta el entorno de trabajo de origen en el entorno de trabajo de destino. StorageGRID puede ser el origen o el destino.</block>
+  <block id="29a7b2441d86b88dc7b6b010d54ea1ea" category="inline-link">Obtén más información sobre la copia y sincronización de BlueXP</block>
+  <block id="e3e2362086f7a7cbdf71923245788646" category="paragraph"><block ref="e3e2362086f7a7cbdf71923245788646" category="inline-link-rx"></block></block>
 </blocks>
