@@ -13,7 +13,6 @@
   <block id="4d59e76f3a0fb15954592256790b7f7e" category="doc">Utilice los servicios de datos de NetApp con StorageGRID</block>
   <block id="b88241859cee076fd3a4ddaeda099288" category="paragraph">Tras descubrir un sistema StorageGRID en BlueXP, puede utilizar los servicios de datos de NetApp para realizar backups y sincronización de datos.</block>
   <block id="a4304a5e5ad0523cd1e2516efcbb04ea" category="inline-link">Obtenga más información acerca de la realización de backups de datos de ONTAP en las instalaciones en StorageGRID</block>
-  <block id="5848e24b55c702b7cc486314cd78f6dc" category="paragraph"><block ref="5848e24b55c702b7cc486314cd78f6dc" category="inline-link-rx"></block></block>
   <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp ofrece soporte para BlueXP de diversas maneras. Hay disponibles amplias opciones de auto soporte gratuito las 24 horas del día, los 7 días de la semana, como artículos de la base de conocimiento (KB) y un foro de la comunidad. Su registro de soporte incluye soporte técnico remoto a través de tickets web.</block>
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">Obtenga ayuda</block>
   <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp ofrece soporte para BlueXP y sus servicios cloud de diversas maneras. Hay disponibles amplias opciones de auto soporte gratuito las 24 horas del día, los 7 días de la semana, como artículos de la base de conocimiento (KB) y un foro de la comunidad. Su registro de soporte incluye soporte técnico remoto a través de tickets web.</block>
@@ -43,7 +42,6 @@
   <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*Descripción del problema*: Proporcione una descripción detallada del problema, incluidos los mensajes de error aplicables o los pasos de solución de problemas que haya realizado.</block>
   <block id="002c6f26fb01affb37b8cf3cef7a1fb0" category="list-text">*Direcciones de correo electrónico adicionales*: Introduzca direcciones de correo electrónico adicionales si desea que alguien más conozca este problema.</block>
   <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">Captura de pantalla del formulario Crear un caso que le permite crear un caso con el soporte de NetApp.</block>
-  <block id="a2ff30886e1baf1e7d5045b5fc24f5b9" category="paragraph"><block ref="a2ff30886e1baf1e7d5045b5fc24f5b9" category="inline-image-macro-rx" type="image"></block></block>
   <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">Después de terminar</block>
   <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">Aparecerá una ventana emergente con el número de caso de soporte. Un especialista de soporte de NetApp revisará su caso y le pondrá en contacto con usted próximamente.</block>
   <block id="04e15da1deae9568b4dcda64fbb0c8d5" category="paragraph">Para obtener un historial de sus casos de soporte, puede hacer clic en *Configuración &gt; línea de tiempo* y buscar acciones denominadas "Crear caso de soporte". Un botón situado en el extremo derecho le permite ampliar la acción para ver los detalles.</block>
@@ -59,7 +57,6 @@
   <block id="d59db7846bd10b6d60d21543df9faa9e" category="list-title">Lo que necesitará</block>
   <block id="031f2c2a8e686936eab9e36e2d0d5c66" category="list-text">Un conector instalado en un proveedor de cloud o en sus instalaciones, con conectividad de red al sistema StorageGRID.</block>
   <block id="013d29d39e390d6b894eaf54e5b91328" category="inline-link">Obtenga más información sobre conectores y cómo crear uno</block>
-  <block id="8604e02ef9173d1fcb905c94b3e7744f" category="paragraph"><block ref="8604e02ef9173d1fcb905c94b3e7744f" category="inline-link-rx"></block></block>
   <block id="8ed6fea4723099b9cd21d8f577ab8fb6" category="list-text">El nombre de dominio o la dirección IP del nodo de administración.</block>
   <block id="cdf740c7139af2d388c8083334061fa1" category="list-text">Credenciales de administrador para el nodo de administración.</block>
   <block id="dd7b7135b0a124cc17bc203de731ce8c" category="list-text">Haga clic en *Agregar entorno de trabajo* y seleccione *en las instalaciones*.</block>
@@ -98,11 +95,8 @@
   <block id="0375f4855be072c7d856a0233cc21de9" category="section-title">Soporte para soluciones de proveedores cloud</block>
   <block id="be845c219bb74b14349ffa6e27e7aef3" category="paragraph">Para obtener asistencia técnica sobre las siguientes soluciones de proveedores de nube que ha integrado en BlueXP, consulte “obtención de ayuda” en la documentación de BlueXP para ese producto.</block>
   <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">Amazon FSX para ONTAP</block>
-  <block id="5bf5309465f91318228a7f956b826348" category="list-text"><block ref="5bf5309465f91318228a7f956b826348" category="inline-link-macro-rx"></block></block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files</block>
-  <block id="0e2bc9c853e0af52ead12823c025e58b" category="list-text"><block ref="0e2bc9c853e0af52ead12823c025e58b" category="inline-link-macro-rx"></block></block>
   <block id="b0cee72642f5457a71ddd0b49efb6d93" category="inline-link-macro">Cloud Volumes Service para Google Cloud</block>
-  <block id="02efcbea18b9485a78a41871dce1e64d" category="list-text"><block ref="02efcbea18b9485a78a41871dce1e64d" category="inline-link-macro-rx"></block></block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">Información general del registro de soporte</block>
   <block id="192054ad7601240a3e8be54cc5cc548e" category="paragraph">Existen dos formas de registro para activar el derecho de asistencia:</block>
   <block id="2322ca552c2b0ebe090c8485519246a8" category="list-text">Registro de la suscripción al soporte de ID de cuenta de BlueXP (número de serie de 20 dígitos xxxx960xxxxx que se encuentra en la página Recursos de asistencia técnica de BlueXP).</block>
@@ -125,7 +119,6 @@
   <block id="e3cd99e4aa330ae6bdfb3754d83ae962" category="list-text">Si tiene una cuenta de partner o distribuidor, puede añadir una o varias cuentas de NSS, pero no se podrán añadir junto con las cuentas de nivel de cliente.</block>
   <block id="1afe19576f77bb0073c93359ed2cbb18" category="list-text">En la parte superior derecha de la consola de BlueXP, haga clic en el icono Ayuda y seleccione *Soporte*.</block>
   <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">Una captura de pantalla del menú Ayuda en el que Soporte es la primera opción de la lista</block>
-  <block id="868d9aa88f16ea923af1d15eac5d2647" category="paragraph"><block ref="868d9aa88f16ea923af1d15eac5d2647" category="inline-image-macro-rx" type="image"></block></block>
   <block id="d17d6b5dafebab6b7659da8850737e70" category="list-text">Haga clic en *Administración de NSS &gt; Agregar cuenta de NSS*.</block>
   <block id="8aaf101e623c543c7eef3c65f6233366" category="list-text">Cuando se le pregunte, haga clic en *continuar* para que se le redirija a una página de inicio de sesión de Microsoft.</block>
   <block id="19d089db572ee6a1e154a0c9c9e57bfd" category="paragraph">NetApp utiliza Microsoft Azure Active Directory como proveedor de identidades para servicios de autenticación específicos para soporte y licencias.</block>
@@ -140,7 +133,6 @@
   <block id="25b94e7b58140f12be91fa8fd935fa59" category="list-text">Si aún no lo ha hecho, agregue su cuenta NSS a BlueXP.</block>
   <block id="819aff12752b7e6a1828e755c7664de7" category="list-text">En la página *Recursos*, haga clic en *Registrar para asistencia*.</block>
   <block id="e8a3d9970b8fc1d92caaf33d9e116bd4" category="inline-image-macro">Captura de pantalla que muestra un número de serie de la cuenta y la opción Registrar para Soporte</block>
-  <block id="113f9cd7bac6f4faa6b8d58e3e099a8e" category="paragraph"><block ref="113f9cd7bac6f4faa6b8d58e3e099a8e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">Cliente existente pero no cuenta NSS</block>
   <block id="cc1d3c161bcf25e6445c2fc771647849" category="paragraph">Si ya es cliente de NetApp con licencias y números de serie existentes pero _no_ cuenta de NSS, solo tiene que crear una cuenta de NSS.</block>
   <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">Formulario de registro de usuarios del sitio de soporte de NetApp</block>
@@ -150,7 +142,6 @@
   <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">Totalmente nuevo en NetApp</block>
   <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">Si es totalmente nuevo en NetApp y no tiene una cuenta de NSS, siga cada paso que se indica a continuación.</block>
   <block id="2974170a8b1b5b4a2ac69aacd4c1c9c3" category="list-text">Busque el número de serie de su ID de cuenta en la página Support Registration.</block>
-  <block id="ef5e63bb6b6827440a13cc2ec7e9cf56" category="paragraph"><block ref="ef5e63bb6b6827440a13cc2ec7e9cf56" category="inline-image-macro-rx" type="image"></block></block>
   <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">Sitio de registro de soporte de NetApp</block>
   <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">Vaya a.<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> Y seleccione *no soy un cliente registrado de NetApp*.</block>
   <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">Rellene los campos obligatorios (aquellos con asteriscos rojos).</block>
@@ -211,20 +202,14 @@
   <block id="27635a52fe4c34c39ffc6430f4244ec6" category="list-text">En *casos de la organización*, haga clic en *Ver* para ver todos los casos asociados con su empresa.</block>
   <block id="059e856250b59be3069246887b74a23c" category="list-text">Modifique el rango de fechas eligiendo un rango de fechas exacto o eligiendo un marco de tiempo diferente.</block>
   <block id="dfb3764bce2548df4e06357403f9c7d0" category="inline-image-macro">Captura de pantalla de la opción situada encima de la tabla en la página de gestión de casos que permite elegir un intervalo de fechas exacto o los últimos 7 días, 30 días o 3 meses.</block>
-  <block id="7fcba8aeefa9960d3fc3fa08b360ba2e" category="paragraph"><block ref="7fcba8aeefa9960d3fc3fa08b360ba2e" category="inline-image-macro-rx" type="image"></block></block>
   <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">Filtre el contenido de las columnas.</block>
   <block id="3753f10a59e21f58b30e3e67d416453e" category="inline-image-macro">Captura de pantalla de la opción de filtro de la columna Estado que permite filtrar casos que coinciden con un estado específico, como activo o cerrado.</block>
-  <block id="37709be3a43df07d5975287545d0ba12" category="paragraph"><block ref="37709be3a43df07d5975287545d0ba12" category="inline-image-macro-rx" type="image"></block></block>
   <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">El icono más que se muestra en la tabla</block>
-  <block id="1614dc8e47c0492434152c990d6c1040" category="list-text">Cambie las columnas que aparecen en la tabla haciendo clic en <block ref="effeab06130cddc8360822b2b706805b" category="inline-image-macro-rx" type="image"></block> y, a continuación, seleccione las columnas que desea mostrar.</block>
   <block id="370b44009f1b82d0b6b178bb80cc62fa" category="inline-image-macro">Captura de pantalla que muestra las columnas que puede mostrar en la tabla.</block>
-  <block id="5de408d7cbad49634fb25f9047498132" category="paragraph"><block ref="5de408d7cbad49634fb25f9047498132" category="inline-image-macro-rx" type="image"></block></block>
   <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">Icono con tres puntos que aparece en la última columna de la tabla</block>
-  <block id="98efef1c8a47ed5791b41944e8ff4ec2" category="list-text">Gestione un caso existente haciendo clic en <block ref="a0b152b50a56901a75affebabc26ed61" category="inline-image-macro-rx" type="image"></block> y seleccione una de las opciones disponibles:</block>
   <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*Ver caso*: Ver todos los detalles sobre un caso específico.</block>
   <block id="f791bc685c526af8296381acff10f6a0" category="list-text">*Cerrar caso*: Proporcione detalles sobre por qué cierra el caso y haga clic en *Cerrar caso*.</block>
   <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">Captura de pantalla que muestra las acciones que puede realizar después de seleccionar el menú de la última columna de la tabla.</block>
-  <block id="e9a5c374fb47ed2ae5cc6108fb36d829" category="paragraph"><block ref="e9a5c374fb47ed2ae5cc6108fb36d829" category="inline-image-macro-rx" type="image"></block></block>
   <block id="520851e11d4657fa15ed8a11da0eec00" category="list-text">En el menú de navegación de BlueXP, seleccione *almacenamiento &gt; Canvas*.</block>
   <block id="c1337bb911d61c7e24f0143c98280728" category="list-text">Junto a *StorageGRID*, seleccione *Discover*.</block>
   <block id="ec084bb25ed5b934c09b361069c246b2" category="list-text">La cuenta NSS debe ser una cuenta de nivel de cliente (no una cuenta de invitado o temporal). Puede tener varias cuentas de NSS en el nivel del cliente.</block>
@@ -232,8 +217,6 @@
   <block id="d926847e4634e19a1aa7358becc0fa27" category="paragraph">"El tipo de cliente NSS no está permitido para esta cuenta, ya que ya hay usuarios NSS de tipo diferente."</block>
   <block id="a04a3a5322782e8c18d0d64be7e1ccbc" category="paragraph">Lo mismo sucede si tiene cuentas de NSS de nivel de cliente preexistentes e intenta añadir una cuenta de nivel de partner.</block>
   <block id="1afe8a81cfddc9fa9559e272bb6b9496" category="list-text">Después de iniciar sesión correctamente, NetApp almacenará el nombre de usuario de NSS.</block>
-  <block id="452cd4df7b0d5eb1156519a2f3b0206b" category="paragraph">Se trata de un ID generado por el sistema que se asigna a su correo electrónico. En la página *NSS Management*, puede mostrar su correo electrónico desde <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> de windows</block>
-  <block id="fd02e84624a2fdfd58787131aa2820b5" category="list-text">Si alguna vez necesita actualizar sus tokens de credenciales de inicio de sesión, también hay una opción *Actualizar credenciales* en la <block ref="0d0843f26c0819e5369f690fefbf68b7" category="inline-image-macro-rx" type="image"></block> de windows</block>
   <block id="b14d512a3c64fb5df16f6721b0603c63" category="paragraph">Con esta opción se le solicita que vuelva a iniciar sesión. Tenga en cuenta que el token de estas cuentas caduca después de 90 días. Se enviará una notificación para avisarle de ello.</block>
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*Accesorio (opcional)*: Cargue hasta cinco archivos adjuntos, uno a la vez.</block>
   <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">Los archivos adjuntos están limitados a 25 MB por archivo. Se admiten las siguientes extensiones de archivo: Txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx y csv.</block>
@@ -241,11 +224,28 @@
   <block id="883eef4b617ed29c6215037626df7b5e" category="summary">Descubre tus sistemas StorageGRID a través de BlueXP para tener una visión completa de los datos en tu multicloud híbrido.</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="c95623cd0395d5a6bb6105b9d32f197b" category="inline-link">Aviso para BlueXP</block>
-  <block id="e8a6d0f19a957eac14b9917a6c92899b" category="paragraph"><block ref="e8a6d0f19a957eac14b9917a6c92899b" category="inline-link-rx"></block></block>
   <block id="562a1ca3f27bbce8f867c759f82d02dc" category="list-text">Utiliza el backup y la recuperación de BlueXP para hacer backup de datos desde tus sistemas ONTAP on-premises en el almacenamiento de objetos en tus sistemas StorageGRID de NetApp.</block>
   <block id="ead1951b53a3b76661043b6bf5ff1b48" category="paragraph">Para empezar, ve al lienzo de BlueXP y arrastra y suelta un entorno de trabajo de ONTAP on-premises en tu entorno de trabajo de StorageGRID.</block>
   <block id="b99ff865a132e7a6116d680732bd74a1" category="list-text">Utiliza la copia y sincronización de BlueXP para sincronizar los datos que se encuentren en un sistema StorageGRID o desde él.</block>
   <block id="e1bb8de567622bad90039f45af7d579c" category="paragraph">Para empezar, ve al lienzo de BlueXP y arrastra y suelta el entorno de trabajo de origen en el entorno de trabajo de destino. StorageGRID puede ser el origen o el destino.</block>
   <block id="29a7b2441d86b88dc7b6b010d54ea1ea" category="inline-link">Obtén más información sobre la copia y sincronización de BlueXP</block>
-  <block id="e3e2362086f7a7cbdf71923245788646" category="paragraph"><block ref="e3e2362086f7a7cbdf71923245788646" category="inline-link-rx"></block></block>
+  <block id="9e5b68fb5027979545709db9c86c496d" category="paragraph"><block ref="9e5b68fb5027979545709db9c86c496d" category="inline-link-rx"></block></block>
+  <block id="5693110829c37bf470028ed210aaa3a9" category="paragraph"><block ref="5693110829c37bf470028ed210aaa3a9" category="inline-link-rx"></block></block>
+  <block id="30e1f00c72b63f8042f24c3558ddb8e3" category="paragraph"><block ref="30e1f00c72b63f8042f24c3558ddb8e3" category="inline-link-rx"></block></block>
+  <block id="52ba8ac12050d2494572b940a0d65b25" category="paragraph"><block ref="52ba8ac12050d2494572b940a0d65b25" category="inline-link-rx"></block></block>
+  <block id="9d06990508d25d367d9158c6558eb9c8" category="list-text"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
+  <block id="2e0c742f4616eb27b5b7646aa790edfe" category="list-text"><block ref="2e0c742f4616eb27b5b7646aa790edfe" category="inline-link-macro-rx"></block></block>
+  <block id="cf14bff66a8b72d3675db8ffe0f02ee3" category="list-text"><block ref="cf14bff66a8b72d3675db8ffe0f02ee3" category="inline-link-macro-rx"></block></block>
+  <block id="e8d4092baef6680c6a35d5228ae31de2" category="paragraph"><block ref="e8d4092baef6680c6a35d5228ae31de2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0dfcbbbe02d3e96f8ad78782e8772587" category="paragraph">Se trata de un ID generado por el sistema que se asigna a su correo electrónico. En la página *NSS Management*, puede mostrar su correo electrónico desde <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> de windows</block>
+  <block id="fc79de85a483938f72fbcb9822ec0ae3" category="list-text">Si alguna vez necesita actualizar sus tokens de credenciales de inicio de sesión, también hay una opción *Actualizar credenciales* en la <block ref="5151db0ded96d46f40ae09b5e5b167a1" category="inline-image-macro-rx" type="image"></block> de windows</block>
+  <block id="1bb5620ed3998fd776980cad36e22c9a" category="paragraph"><block ref="1bb5620ed3998fd776980cad36e22c9a" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="379f9cd57d97013f3f7fdd24f692a0b1" category="paragraph"><block ref="379f9cd57d97013f3f7fdd24f692a0b1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="509259be6d5e15d8959f705cbe0cbcc1" category="paragraph"><block ref="509259be6d5e15d8959f705cbe0cbcc1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0972db30d942fdb65d1732e6e84bde99" category="paragraph"><block ref="0972db30d942fdb65d1732e6e84bde99" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="cb6a777dd3c6e43b0dc441d38519d219" category="paragraph"><block ref="cb6a777dd3c6e43b0dc441d38519d219" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0f6cac2f77150840994f84044fc1b12b" category="list-text">Cambie las columnas que aparecen en la tabla haciendo clic en <block ref="b574dd55d604ddb721d869a0fc302007" category="inline-image-macro-rx" type="image"></block> y, a continuación, seleccione las columnas que desea mostrar.</block>
+  <block id="e65065c4fd326b9f3a1eeb9453c30d73" category="paragraph"><block ref="e65065c4fd326b9f3a1eeb9453c30d73" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6ba7d68d8b3ef0f3398afb9d3ea96172" category="list-text">Gestione un caso existente haciendo clic en <block ref="566c029d89e7d5421080767a37bf443e" category="inline-image-macro-rx" type="image"></block> y seleccione una de las opciones disponibles:</block>
+  <block id="2ea260929e27ffcb623c8aa35689bd18" category="paragraph"><block ref="2ea260929e27ffcb623c8aa35689bd18" category="inline-image-macro-rx" type="image"></block></block>
 </blocks>

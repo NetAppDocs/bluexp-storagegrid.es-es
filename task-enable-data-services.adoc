@@ -21,13 +21,13 @@ Tras descubrir un sistema StorageGRID en BlueXP, puede utilizar los servicios de
 Para empezar, ve al lienzo de BlueXP y arrastra y suelta un entorno de trabajo de ONTAP on-premises en tu entorno de trabajo de StorageGRID.
 
 +
-https://docs.netapp.com/us-en/cloud-manager-backup-restore/task-backup-onprem-private-cloud.html["Obtenga más información acerca de la realización de backups de datos de ONTAP en las instalaciones en StorageGRID"^]
+https://docs.netapp.com/us-en/bluexp-backup-recovery/task-backup-onprem-private-cloud.html["Obtenga más información acerca de la realización de backups de datos de ONTAP en las instalaciones en StorageGRID"^]
 
 * Utiliza la copia y sincronización de BlueXP para sincronizar los datos que se encuentren en un sistema StorageGRID o desde él.
 +
 Para empezar, ve al lienzo de BlueXP y arrastra y suelta el entorno de trabajo de origen en el entorno de trabajo de destino. StorageGRID puede ser el origen o el destino.
 
 +
-https://docs.netapp.com/us-en/cloud-manager-sync/index.html["Obtén más información sobre la copia y sincronización de BlueXP"^]
+https://docs.netapp.com/us-en/bluexp-copy-sync/index.html["Obtén más información sobre la copia y sincronización de BlueXP"^]
 
 
