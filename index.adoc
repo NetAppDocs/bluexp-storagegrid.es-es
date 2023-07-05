@@ -2,10 +2,10 @@
 layout: astra 
 sidebar: sidebar 
 permalink: index.html 
-lead: Discover your StorageGRID systems through BlueXP to get a complete view of data across your hybrid multicloud. 
-summary: Descubre tus sistemas StorageGRID a través de BlueXP para tener una visión completa de los datos en tu multicloud híbrido. 
+lead: Discover your StorageGRID systems from BlueXP to get a complete view of data across your hybrid multicloud. 
+summary: Descubre tus sistemas StorageGRID de BlueXP para obtener una visión completa de los datos en tu multicloud híbrido. 
 ---
-= Documentación de StorageGRID
+= Gestión de StorageGRID mediante BlueXP
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 

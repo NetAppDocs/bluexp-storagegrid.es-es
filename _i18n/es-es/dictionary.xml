@@ -78,7 +78,6 @@
   <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
   <block id="c0227cef6f07a8cd2ac72f2945b031aa" category="section-title">Código abierto</block>
   <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">Los archivos de notificación proporcionan información sobre los derechos de autor y las licencias de terceros que se utilizan en software de NetApp.</block>
-  <block id="3778f3873debfe11e2ace6bb6af1e417" category="doc">Documentación de StorageGRID</block>
   <block id="c99454978b70ce8c05ee8d05b1e2aaaf" category="summary">Descubra las novedades que ofrece la gestión de sistemas StorageGRID en BlueXP.</block>
   <block id="a39b0065ec636bbdd671213be9d343f4" category="doc">Novedades de la administración de StorageGRID</block>
   <block id="f7ba76d5c9beab0576f118a6254843e9" category="section-title">18 de septiembre de 2022</block>
@@ -195,7 +194,6 @@
   <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">*Accesorio (opcional)*: Cargue hasta cinco archivos adjuntos, uno a la vez.</block>
   <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">Los archivos adjuntos están limitados a 25 MB por archivo. Se admiten las siguientes extensiones de archivo: Txt, log, pdf, jpg/jpeg, rtf, doc/docx, xls/xlsx y csv.</block>
   <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">*Actualizar notas de caso*: Proporcione detalles adicionales sobre su problema o seleccione *cargar archivos* para adjuntar hasta un máximo de cinco archivos.</block>
-  <block id="883eef4b617ed29c6215037626df7b5e" category="summary">Descubre tus sistemas StorageGRID a través de BlueXP para tener una visión completa de los datos en tu multicloud híbrido.</block>
   <block id="942c9249796cf6b78c981ebf15195809" category="list-text"><block ref="942c9249796cf6b78c981ebf15195809" category="inline-link-rx"></block></block>
   <block id="c95623cd0395d5a6bb6105b9d32f197b" category="inline-link">Aviso para BlueXP</block>
   <block id="562a1ca3f27bbce8f867c759f82d02dc" category="list-text">Utiliza el backup y la recuperación de BlueXP para hacer backup de datos desde tus sistemas ONTAP on-premises en el almacenamiento de objetos en tus sistemas StorageGRID de NetApp.</block>
@@ -250,4 +248,6 @@
   <block id="f5135b68b75a8404803a1eb438e40c5e" category="list-text">Actualizar el software Cloud Volumes ONTAP a la versión más reciente</block>
   <block id="39f382b97080640c75604b5890f3a5d3" category="paragraph">La asociación de credenciales de NSS con su cuenta de BlueXP es diferente de la cuenta de NSS asociada con un inicio de sesión de usuario de BlueXP.</block>
   <block id="e3bc6d35311568d55f1c8ea11984b964" category="paragraph">Estas credenciales de NSS están asociadas con tu ID de cuenta de BlueXP específico. Los usuarios que pertenecen a la cuenta BlueXP pueden acceder a estas credenciales desde *Soporte &gt; Gestión NSS*.</block>
+  <block id="b200dbe3ac15ec0df201a92f5a178425" category="summary">Descubre tus sistemas StorageGRID de BlueXP para obtener una visión completa de los datos en tu multicloud híbrido.</block>
+  <block id="e49fe84ab9de0d0293be60cd1cd89c71" category="doc">Gestión de StorageGRID mediante BlueXP</block>
 </blocks>
