@@ -16,7 +16,8 @@ summary: Después de detectar los sistemas de StorageGRID, puede ver detalles so
 Después de detectar los sistemas de StorageGRID, puede ver detalles sobre la distribución de la capacidad y las alertas, los nodos y los inquilinos asociados.
 
 .Pasos
-. Desde el lienzo, haga doble clic en el nombre del entorno de trabajo de StorageGRID que desea ver.
+. En el menú de navegación, selecciona *almacenamiento > Canvas*.
+. En la página Lienzo, seleccione el entorno de trabajo de StorageGRID que desea ver.
 . Seleccione una de las pestañas para ver más detalles sobre el sistema StorageGRID:
 +
 ** *Descripción general*: Una vista detallada de la distribución de la capacidad del sistema (capacidad utilizada y libre), el número de alertas del sistema, nodos e inquilinos, y más.
