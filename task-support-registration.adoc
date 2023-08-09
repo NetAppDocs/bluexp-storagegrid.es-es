@@ -10,6 +10,7 @@ summary: Antes de poder abrir un caso de soporte con el soporte técnico de NetA
 :imagesdir: ../media/
 
 
+[role="lead"]
 Es necesario registrarse en soporte para tu cuenta de BlueXP y para sistemas de Cloud Volumes ONTAP individuales.
 
 

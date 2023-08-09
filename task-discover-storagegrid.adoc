@@ -13,6 +13,7 @@ summary: BlueXP puede descubrir los sistemas StorageGRID de su entorno local. A�
 :imagesdir: ./media/
 
 
+[role="lead"]
 BlueXP puede descubrir los sistemas StorageGRID de su entorno local. Añadir sistemas StorageGRID a BlueXP le permite obtener una visión completa de los datos en todo su multicloud híbrido.
 
 .Lo que necesitará

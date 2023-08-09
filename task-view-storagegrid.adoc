@@ -13,6 +13,7 @@ summary: Después de detectar los sistemas de StorageGRID, puede ver detalles so
 :imagesdir: ./media/
 
 
+[role="lead"]
 Después de detectar los sistemas de StorageGRID, puede ver detalles sobre la distribución de la capacidad y las alertas, los nodos y los inquilinos asociados.
 
 .Pasos
