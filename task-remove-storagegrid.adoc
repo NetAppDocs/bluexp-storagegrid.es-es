@@ -4,7 +4,7 @@ permalink: task-remove-storagegrid.html
 keywords: storagegrid, cluster, remove, delete, remove storagegrid, delete cluster, delete working environment, remove working environment 
 summary: Elimine un entorno de trabajo de StorageGRID si ya no quiere gestionarlo desde BlueXP. 
 ---
-= Eliminar un entorno de trabajo de StorageGRID
+= Eliminar un entorno de trabajo StorageGRID
 :hardbreaks:
 :allow-uri-read: 
 :nofooter: 

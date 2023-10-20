@@ -13,10 +13,12 @@ sidebar:
   - title: Documentos de StorageGRID
     url: "/index.html"
   - title: Notas de la versión
-    url: "/whats-new.html"
+    entries:
+    - title: Novedades
+      url: "/whats-new.html"
   - title: Manos a la obra
     entries:
-    - title: Descubra sus sistemas StorageGRID
+    - title: Descubra los sistemas StorageGRID
       url: "/task-discover-storagegrid.html"
   - title: Gestione los sistemas StorageGRID
     entries:
@@ -24,7 +26,7 @@ sidebar:
       url: "/task-view-storagegrid.html"
     - title: Utilice los servicios de datos de NetApp con StorageGRID
       url: "/task-enable-data-services.html"
-    - title: Eliminar sistemas StorageGRID
+    - title: Eliminar un entorno de trabajo
       url: "/task-remove-storagegrid.html"
   - title: Conocimiento y apoyo
     entries:
