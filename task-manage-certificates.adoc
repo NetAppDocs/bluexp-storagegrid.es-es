@@ -1,0 +1,59 @@
+---
+sidebar: sidebar 
+permalink: task-manage-certificates.html 
+keywords: storagegrid, certificate, manage, manage interface certificate, refresh certificate, update certificate 
+summary: Dado que los certificados pueden caducar, es posible que ocasionalmente necesite ver el estado o actualizar un certificado. 
+---
+= Gestionar certificados en BlueXP 
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Los certificados de la interfaz de gestión aprobados por el usuario se requieren para establecer una conexión segura entre BlueXP  y StorageGRID. Dado que los certificados pueden caducar, es posible que ocasionalmente necesite ver el estado o actualizar un certificado.
+
+
+
+== Vea el estado del certificado de inferface de gestión
+
+.Pasos
+. En el menú de navegación, selecciona *almacenamiento > Canvas*.
+. En la página Lienzo, seleccione el entorno de trabajo de StorageGRID.
+. En la vista estándar, compruebe el estado del certificado aprobado por el usuario en la parte inferior del panel _Información_ en la parte derecha de la página.
++
+
+NOTE: El estado del certificado se actualiza una vez cada 24 horas.
+
++
+image:screenshot-standard-view-information.png["Captura de pantalla del panel Información del entorno de trabajo."]
+
+
+
+
+
+== Actualice el certificado de interfaz de gestión
+
+Si el estado del certificado de la interfaz de gestión no es válido o recibe una notificación para indicar que el certificado ha caducado, deberá actualizarlo para que BlueXP  se pueda conectar a StorageGRID.
+
+.Pasos
+. Vaya al administrador de grid local en StorageGRID y siga las instrucciones de https://docs.netapp.com/us-en/storagegrid-118/admin/configuring-custom-server-certificate-for-grid-manager-tenant-manager.html#add-a-custom-management-interface-certificate["Instalación de un certificado de interfaz de gestión en StorageGRID"].
+. En el menú de navegación Blue XP, seleccione *Almacenamiento > Lienzo*.
+. En la página Lienzo, seleccione el entorno de trabajo de StorageGRID.
+. Seleccione el icono Más opciones (círculo con tres puntos verticales).
++
+image:screenshot-update-certificate.png["Una captura de pantalla del menú de actualización."]
+
+. Seleccione *Actualizar certificado*.
++
+
+NOTE: También puede actualizar el certificado utilizando el icono Más opciones (el icono con tres puntos verticales) de la vista Estándar.
+
++
+image:screenshot-bluexp-approve-certificate.png["Captura de pantalla que muestra la pantalla Aprobar certificado que aparece durante la detección de un sistema StorageGRID"]
+
+. En la página _Aprobar certificado_, seleccione *Aprobar certificado* para usar el certificado actualizado.
+

@@ -18,6 +18,26 @@ Descubra las novedades que ofrece la gestión de sistemas StorageGRID en BlueXP.
 
 
 
+== 7 de agosto de 2024
+
+
+
+=== Nueva vista avanzada
+
+A partir de StorageGRID 11,8, puede utilizar la conocida interfaz de Grid Manager para gestionar su sistema StorageGRID desde BlueXP .
+
+https://docs.netapp.com/us-en/bluexp-storagegrid/task-administer-storagegrid.html["Aprenda a administrar StorageGRID con la vista avanzada"].
+
+
+
+=== Capacidad para revisar y aprobar el certificado de interfaz de gestión de StorageGRID
+
+Ahora puede revisar y aprobar un certificado de interfaz de gestión de StorageGRID al detectar el sistema StorageGRID de BlueXP . También se puede revisar y aprobar el último certificado de interfaz de gestión de StorageGRID en una cuadrícula detectada.
+
+https://docs.netapp.com/us-en/bluexp-storagegrid/task-discover-storagegrid.html["Aprenda a revisar y aprobar el certificado de servidor durante la detección del sistema."]
+
+
+
 == 18 de septiembre de 2022
 
 

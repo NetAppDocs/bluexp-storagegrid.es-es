@@ -1,0 +1,35 @@
+---
+sidebar: sidebar 
+permalink: reference-known-issues.html 
+keywords: issues, known issues, bugs, errors 
+summary: Los problemas conocidos identifican problemas por los que el uso correcto de esta versión del producto puede resultar imposible. 
+---
+= Problemas conocidos
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Los problemas conocidos identifican problemas por los que el uso correcto de esta versión del producto puede resultar imposible.
+
+
+
+== Los nombres mostrados actualizados no aparecen en BlueXP 
+
+Si utiliza el procedimiento de cambio de nombre para definir un nuevo nombre mostrado para un sitio o cuadrícula, el nuevo nombre mostrado no se refleja en el entorno de trabajo de BlueXP . El entorno de trabajo sigue mostrando el nombre del sistema y no el nuevo nombre mostrado.
+
+
+
+== Error al filtrar alertas
+
+Al utilizar la vista avanzada, se genera un error al filtrar el contenido de la página Alertas.
+
+
+
+== Error al editar la conexión de federación de cuadrícula
+
+Al utilizar la vista avanzada, es posible que se produzca un error de tiempo de espera de puerta de enlace al editar una conexión de federación de grid.

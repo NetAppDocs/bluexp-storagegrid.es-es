@@ -1,0 +1,136 @@
+---
+sidebar: sidebar 
+permalink: task-administer-storagegrid.html 
+keywords: grid manager, advanced view, standard view, use grid manager, gridmanager 
+summary: Administrar un sistema StorageGRID desde BlueXP  usando la vista avanzada. Esta vista permite utilizar Grid Manager desde el entorno de trabajo de StorageGRID. 
+---
+= Administre StorageGRID en la vista avanzada
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Administrar un sistema StorageGRID desde BlueXP  usando la vista avanzada. Esta vista permite utilizar Grid Manager desde el entorno de trabajo de StorageGRID.
+
+
+
+== Configuraciones admitidas
+
+Grid Manager está disponible en BlueXP  desde StorageGRID 11,8.
+
+
+
+== Limitaciones
+
+Las siguientes operaciones de Grid Manager no están disponibles en BlueXP . Si necesita realizar estas operaciones, inicie sesión directamente en Grid Manager.
+
+[cols="1a,2a"]
+|===
+| Menú Grid Manager | Operaciones no disponibles en BlueXP  
+
+
+ a| 
+Usuario
+ a| 
+* Enlace para cerrar sesión
+* Enlace de documentación de API
+* Cambiar contraseña
+
+
+
+
+ a| 
+Nodos
+ a| 
+* No se puede acceder a System Manager de SANtricity desde la pestaña Nodos > Administrador del sistema de SANtricity.
+* Cuando se visualizan las alertas, es posible que no se puedan seleccionar todos los enlaces en las acciones recomendadas. Por ejemplo, los enlaces que van a páginas no soportadas de Grid Manager no funcionarán.
+
+
+
+
+ a| 
+Clientes
+ a| 
+No se puede iniciar sesión en una cuenta de inquilino desde el asistente Crear un inquilino o desde la página Tenantes.
+
+BlueXP  no es compatible actualmente con el Gestor de inquilinos. Aunque puede crear nuevas cuentas de inquilino desde BlueXP , los usuarios de inquilinos no pueden iniciar sesión en sus cuentas desde BlueXP .
+
+
+
+ a| 
+ILM
+ a| 
+Enlace de grados de almacenamiento
+
+
+
+ a| 
+Configuración
+ a| 
+* Contraseñas de grid
+* Clasificación del tráfico > Métricas
+* Configuración de seguridad > Tiempo de espera de inactividad del navegador
+* Inicio de sesión único
+* Agente SNMP > archivo MIB para interfaz BMC
+
+
+
+
+ a| 
+Mantenimiento
+ a| 
+* Paquete de recuperación
+* Actualización de software
+
+
+
+
+ a| 
+Soporte técnico
+ a| 
+* Topología de cuadrícula
+* Registros
+* Métricas, incluidos todos los enlaces a métricas de Prometheus y paneles de Grafana desde otros lugares de la interfaz de usuario.
+* Todas las opciones para alarmas heredadas
+* Coste del enlace
+* Entidades NMS
+
+
+|===
+
+
+== Cambie a la vista avanzada
+
+Abra un entorno de trabajo de StorageGRID y seleccione la opción de vista avanzada.
+
+.Pasos
+. En la página Lienzo, abra el entorno de trabajo de StorageGRID.
+. En la parte superior derecha, selecciona *Cambiar a vista avanzada*.
++
+image:screenshot-advanced-view.png["Captura de pantalla de un entorno de trabajo de StorageGRID que muestra la opción Cambiar a vista avanzada."]
+
+. Utilice Grid Manager para gestionar el sistema StorageGRID.
++
+Una diferencia que debe tener en cuenta es que el menú Ayuda de Grid Manager se ha sustituido por el siguiente menú:
+
++
+image:advanced-view-menu.png["Una captura de pantalla de un entorno de trabajo de StorageGRID donde hay un menú de acción disponible en la parte superior derecha de la pantalla."]
+
++
+Todas las mismas opciones de ayuda están disponibles en este menú, excepto en el enlace de documentación de la API.
+
+. Si es necesario, seleccione Cambiar a vista estándar para volver a la vista estándar a través de BlueXP .
++
+image:screenshot-standard-view.png["Captura de pantalla de un entorno de trabajo de StorageGRID que muestra la opción Cambiar a Vista Estándar."]
+
+
+
+
+
+== Obtener ayuda con Grid Manager
+
+Si necesita ayuda para utilizar Grid Manager, consulte https://docs.netapp.com/us-en/storagegrid-118/admin/index.html["Documentación de StorageGRID"^] para obtener instrucciones detalladas.

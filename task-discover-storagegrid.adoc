@@ -2,7 +2,7 @@
 sidebar: sidebar 
 permalink: task-discover-storagegrid.html 
 keywords: storagegrid, cluster, discover, manage, discovering, discover storagegrid 
-summary: BlueXP puede descubrir los sistemas StorageGRID de su entorno local. Añadir clústeres de StorageGRID a BlueXP le permite obtener una visión completa de los datos en todo su multicloud híbrido. 
+summary: Detecta los sistemas de StorageGRID en tu entorno on-premises y, a continuación, gestiónalos directamente desde BlueXP  mediante Grid Manager. 
 ---
 = Descubra los sistemas StorageGRID
 :hardbreaks:
@@ -14,7 +14,7 @@ summary: BlueXP puede descubrir los sistemas StorageGRID de su entorno local. A�
 
 
 [role="lead"]
-BlueXP puede descubrir los sistemas StorageGRID de su entorno local. Añadir sistemas StorageGRID a BlueXP le permite obtener una visión completa de los datos en todo su multicloud híbrido.
+Detecta los sistemas de StorageGRID en tu entorno on-premises y, a continuación, gestiónalos directamente desde BlueXP  mediante Grid Manager.
 
 .Antes de empezar
 Necesita lo siguiente:
@@ -25,6 +25,10 @@ https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["Obteng
 
 * El nombre de dominio o la dirección IP del nodo de administración.
 * Credenciales de administrador para el nodo de administración.
+* Un certificado de interfaz de gestión instalado en el sistema StorageGRID.
++
+https://docs.netapp.com/us-en/storagegrid-118/admin/configuring-custom-server-certificate-for-grid-manager-tenant-manager.html#add-a-custom-management-interface-certificate["Obtenga más información sobre la instalación de un certificado de interfaz de gestión en StorageGRID"^]
+
 
 
 .Pasos
@@ -35,9 +39,30 @@ https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["Obteng
 +
 Consulte el enlace anterior para obtener más información.
 
-. En la página Detalles de cluster _StorageGRID_, introduzca el nombre de dominio o la dirección IP del nodo de administración, las credenciales del nodo y, a continuación, seleccione *Agregar*.
+. En la página Detalles de cluster _StorageGRID_ de BlueXP , introduzca el nombre de dominio o la dirección IP del nodo de administración, las credenciales del nodo y, a continuación, seleccione *Agregar*.
 +
 image:screenshot-cluster-details.png["Una captura de pantalla que muestra la página Detalles del clúster de StorageGRID donde se introduce el nombre de dominio o la dirección IP del nodo de administración y las credenciales."]
+
+. BlueXP  recupera automáticamente el certificado de interfaz de gestión de StorageGRID. En la página _Aprobar certificado_, revise los detalles del certificado.
++
+image:screenshot-bluexp-approve-certificate.png["Captura de pantalla que muestra la pantalla Aprobar certificado que aparece durante la detección de un sistema StorageGRID"]
+
+. Si desea utilizar un certificado diferente al que se muestra, primero debe configurarlo en su sistema StorageGRID.
++
+.. En su sistema StorageGRID local, siga las instrucciones: https://docs.netapp.com/us-en/storagegrid-118/admin/configuring-custom-server-certificate-for-grid-manager-tenant-manager.html#add-a-custom-management-interface-certificate["Instalación de un certificado de interfaz de gestión en StorageGRID"^].
+.. Después de configurar el certificado en el sistema StorageGRID, seleccione *Cancelar* en la página _Aprobar certificado_ en BlueXP .
+.. En la página Detalles del cluster _StorageGRID_, seleccione *Agregar*.
+
+
+. Opcionalmente, seleccione *Copiar certificado* para copiar los detalles del certificado. Es posible usar los detalles del certificado para realizar una validación adicional si lo desea.
+. Debe realizar una de las siguientes acciones:
++
+.. Seleccione *Aprobar certificado* para usar el certificado.
++
+Aparece un mensaje de éxito. Todas las comunicaciones entre el servidor StorageGRID y el conector BlueXP  se asegurarán mediante la verificación del certificado aprobado.
+
+.. Seleccione *Cancelar* para finalizar el proceso de detección sin verificar el certificado. Por ejemplo, puede seleccionar *Cancelar* si recibe un mensaje de error que le notifica que el certificado de administración de StorageGRID debe actualizarse. Para actualizar un certificado, vaya a <<use-a-different-certificate,Utilice un certificado diferente>>.
+
 
 
 
