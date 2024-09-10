@@ -61,7 +61,13 @@ image:screenshot-bluexp-approve-certificate.png["Captura de pantalla que muestra
 +
 Aparece un mensaje de éxito. Todas las comunicaciones entre el servidor StorageGRID y el conector BlueXP  se asegurarán mediante la verificación del certificado aprobado.
 
-.. Seleccione *Cancelar* para finalizar el proceso de detección sin verificar el certificado. Por ejemplo, puede seleccionar *Cancelar* si recibe un mensaje de error que le notifica que el certificado de administración de StorageGRID debe actualizarse. Para actualizar un certificado, vaya a <<use-a-different-certificate,Utilice un certificado diferente>>.
+.. Seleccione *Cancelar* para finalizar el proceso de detección sin verificar el certificado.
++
+Por ejemplo, puede seleccionar *Cancelar* si recibe un mensaje de error que le notifica que el certificado de administración de StorageGRID debe actualizarse.
+
++
+Para actualizar un certificado, vaya al sistema StorageGRID, actualice el certificado y, a continuación, reinicie el proceso de detección desde BlueXP .
+
 
 
 
