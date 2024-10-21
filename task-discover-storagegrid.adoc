@@ -19,7 +19,10 @@ Detecta los sistemas de StorageGRID en tu entorno on-premises y, a continuación
 .Antes de empezar
 Necesita lo siguiente:
 
-* Un conector instalado en un proveedor de cloud o en sus instalaciones, con conectividad de red al sistema StorageGRID.
+* Un conector que ejecuta la versión 3.9.43 o posterior con conectividad de red al sistema StorageGRID.
++
+El conector puede residir en la nube o en las instalaciones. Solo necesita una conexión de red con el sistema StorageGRID.
+
 +
 https://docs.netapp.com/us-en/bluexp-setup-admin/concept-connectors.html["Obtenga más información sobre conectores y cómo crear uno"^]
 
