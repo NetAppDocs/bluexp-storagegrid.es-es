@@ -362,6 +362,7 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">Es necesario asociar las credenciales del sitio de soporte de NetApp con su organización de BlueXP  para habilitar los siguientes flujos de trabajo clave para Cloud Volumes ONTAP:</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">La asociación de credenciales de NSS a la organización de BlueXP  es diferente de la cuenta de NSS asociada con un inicio de sesión de usuario de BlueXP .</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">Estas credenciales de NSS están asociadas con su ID de organización de BlueXP  específico. Los usuarios que pertenecen a la organización BlueXP  pueden acceder a estas credenciales desde *Soporte &gt; Administración de NSS*.</block>
-  <block id="812698067d3edfc405bb07423d81be18" category="list-text">Un conector que ejecuta la versión 3.9.43 o posterior con conectividad de red al sistema StorageGRID.</block>
   <block id="9c0e98fb28f894724e92772753a585bc" category="paragraph">El conector puede residir en la nube o en las instalaciones. Solo necesita una conexión de red con el sistema StorageGRID.</block>
+  <block id="db188d9c1fa3be7f6644057e551033c7" category="list-text">Una nueva instalación del conector con la versión 3.9.43 o posterior.</block>
+  <block id="dc8d4eccfd0e6edfd9b12eab22e1dda9" category="list-text">Conectividad de red desde el conector al sistema StorageGRID.</block>
 </blocks>
