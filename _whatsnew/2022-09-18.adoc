@@ -1,0 +1,9 @@
+= Compatibilidad con StorageGRID
+:allow-uri-read: 
+
+
+
+
+=== Compatibilidad con StorageGRID
+
+Ahora puede descubrir sus sistemas StorageGRID directamente desde BlueXP. El descubrimiento de StorageGRID le ofrece una visión completa de los datos en su multicloud híbrido.
